@@ -5,6 +5,8 @@ Wild-type and CRND8 APP-overexpressing transgenic male mice brains were collecte
 
 For FF hemispheres, nuclei were isolated following the Demonstrated Protocol for Nuclei Isolation from Complex Tissues for Single Cell Multiome ATAC + Gene Expression Sequencing (CG000375 Rev B). Paired ATAC and Gene Expression libraries were prepared using the Chromium Next GEM Single Cell Multiome ATAC + Gene Expression User Guide (CG000338 Rev D). 
 
+Analysis is based on the Signac and Seurate Vignettes https://stuartlab.org/signac/articles/pbmc_multiomic.html and https://satijalab.org/seurat/articles/weighted_nearest_neighbor_analysis#wnn-analysis-of-10x-multiome-rna-atac, respectively.
+
 Name of Files Used: 
 1) allen_brain.rds
 2) Multiome_RNA_ATAC_Mouse_Brain_Alzheimers_AppNote_atac_fragments.tsv
